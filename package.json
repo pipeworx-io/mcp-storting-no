@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-storting-no",
+  "version": "0.1.0",
+  "description": "Stortinget (Norwegian Parliament) open data MCP — data.stortinget.no.",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "storting-no"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-storting-no"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}

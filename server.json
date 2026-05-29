@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/storting-no",
+  "title": "Storting No",
+  "description": "Stortinget (Norwegian Parliament) open data MCP — data.stortinget.no.",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/storting-no",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-storting-no",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/storting-no/mcp"
+    }
+  ]
+}
