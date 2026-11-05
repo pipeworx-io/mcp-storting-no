@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-storting-no",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Stortinget (Norwegian Parliament) open data MCP — data.stortinget.no.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "storting-no",
     "gatewaySlug": "storting-no",
-    "sourceHash": "v1-4fbe25d312bcb0702780ef786819d2f20a23a74448c7a7cf80d49eeaf8356f6b",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-77737c7906e772013e4db337804cce7c2008e8907afc010d6c33f6c4062dd936",
+    "sourceCommit": "868e119d526d5409447b7ee2149afba7eb9d2593"
   }
 }
